@@ -1,4 +1,4 @@
-# HackQuest-OGBlockchain-GuidedProject1
+# HackQuest-OG Blockchain-Guided Project 1
 
 This project was completed as part of the HackQuest OG Track, where I learned how to deploy a meme coin on the OG Blockchain. The project walks through the entire process of writing, deploying, and verifying a simple token contract.
 
