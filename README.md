@@ -16,5 +16,5 @@ The goal of this guided project is to:
 
 The meme coin is live on the OG Galileo network.
 You can view the deployment here:
+[My Deployed Meme Coin](https://chainscan-galileo.0g.ai/address/0x5bb692809a5f945743d931f8e22d77a0fb2df9f1)
 
-🔗 My Deployed Meme Coin
